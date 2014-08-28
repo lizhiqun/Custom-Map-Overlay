@@ -1,5 +1,5 @@
 Custom-Map-Overlay
 ==================
+<img src="http://www.code4app.com/photo/51ef3e0e6803faf51f000005_1.png" />
 
   Overlay custom images onto the MapView. The image can zoom in or zoom out as the MapView zoom in and zoom out.
-https://camo.githubusercontent.com/5242f7f64c9b4b993268d959d74722efd87ddbf4/687474703a2f2f662e636c2e6c792f6974656d732f30463075306231303247315632543045323532672f43617074757261253230646525323070616e74616c6c61253230323031322d30382d3035253230612532306c6128732925323030392e33372e32352e706e67
